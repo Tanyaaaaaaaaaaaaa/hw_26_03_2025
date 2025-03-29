@@ -1,0 +1,3 @@
+﻿  Cats_Images.cpp
+C:\Users\Таня\Downloads\Cats_Images\Cats_Images\Cats_Images.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cats_Images.vcxproj -> C:\Users\Таня\Downloads\Cats_Images\x64\Debug\Cats_Images.exe
